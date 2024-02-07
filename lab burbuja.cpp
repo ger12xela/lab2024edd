@@ -6,6 +6,10 @@
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
+
+// es un ordenamiento O = n² ya qué para 
+// accesar a memoria utiliza dos For 
+// 
 #include <iostream>
 using namespace std;
 
